@@ -1,0 +1,14 @@
+node_modules/
+modules/
+
+.env
+
+videos/
+final/*
+
+test.js
+
+src/audio/audios/*
+src/video/buffer/*
+src/video/noaudio/*
+credential.json
