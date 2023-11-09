@@ -1,5 +1,7 @@
 # Node.js YouTube Shorts Video Automation Project
 
+You can check the article I wrote on Medium about this project here: [article](https://medium.com/@thiagobergamig/automatizando-a-gera%C3%A7%C3%A3o-de-conte%C3%BAdo-no-youtube-com-intelig%C3%AAncia-artificial-e-programa%C3%A7%C3%A3o-f50f095d0e70)
+
 This Node.js project aims to automate the creation of YouTube Shorts videos by utilizing various AI and video editing tools. The process involves the generation of a script, voice creation, video editing, subtitle generation, and SEO-friendly description generation. Here's an overview of each step:
 
 ## Project Overview
